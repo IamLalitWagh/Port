@@ -1,6 +1,7 @@
 /**
  * @author Lalit Sanjay Wagh <lalit.sanjaywagh@gmail.com>
  * @description Footer
+ * @Update 1
  */
 
 import React from 'react';

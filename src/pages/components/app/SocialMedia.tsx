@@ -26,7 +26,7 @@ const SocialMedia: React.FC = () => {
 				</a>
 				
 			</div>
-			<p className={`${styles.paragraph} ${styles.disclaimer}`}>Copyright © 2024 | Lalit Sanjay Wagh</p>
+			<p className={`${styles.paragraph} ${styles.disclaimer}`}>Copyright © 2025 | Lalit Sanjay Wagh</p>
 		</div>
 	);
 };

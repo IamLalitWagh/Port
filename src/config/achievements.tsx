@@ -21,11 +21,11 @@ const achievements = {
 	id: 'achievements & certifications',
 	content: [
 		{
-			year: '2008',
+			year: '2012',
 			achivement: (
 				<>
-					<span>Awarded the prestigious National Scholarship for outstanding performance in the </span>
-					<span className={styles.bold}>National Scholarship Exam</span>
+					<span>I Achieved a Rank Under 1000 across India </span>
+					<span className={styles.bold}>Indian National Mathematics Olympiad</span>
 				</>
 			),
 		},
@@ -33,22 +33,20 @@ const achievements = {
 			year: '2012',
 			achivement: (
 				<>
-					<span>Scholarship holder in </span>
-					<span className={styles.bold}>National Talent Search Examination (NTSE)</span>
+					<span>I Achieved a Rank Under 100 in Maharashtra State </span>
+					<span className={styles.bold}>Science Olympiad Foundation</span>
 				</>
 			),
 		},
 		{
-			year: '2018',
+			year: '2013',
 			achivement: (
 				<>
-					<span>Received </span>
-					<span className={styles.bold}>Undergraduate Research Award </span>
-					<span>for excellence in the field of engineering research</span>
+					<span>I Achieved a Rank Under 100 in Maharashtra State </span>
+					<span className={styles.bold}>Science Olympiad Foundation</span>
 				</>
 			),
 		}
-		
 		
 	],
 };

@@ -47,35 +47,9 @@ const achievements = {
 					<span>for excellence in the field of engineering research</span>
 				</>
 			),
-		},
-		{
-			year: '2019',
-			achivement: (
-				<>
-					<span>Awarded with </span>
-					<span className={styles.bold}>AA grade </span>
-					<span>in credit-based Industry Internship at Mumbai Railway Vikas Corporation</span>
-				</>
-			),
-		},
-		{
-			year: '2021',
-			achivement: (
-				<>
-					<span className={styles.bold}>Department rank 2 </span>
-					<span>in DD program, demonstrating exceptional academic performance with </span>
-					<span className={styles.bold}>CGPA 8.54/10</span>
-				</>
-			),
-		},
-		{
-			year: '2021',
-			achivement: 'Python and Statistics for Financial Analysis (Coursera)',
-		},
-		{
-			year: '2021',
-			achivement: 'Python 3 tutorial Course (SoloLearn)',
-		},
+		}
+		
+		
 	],
 };
 

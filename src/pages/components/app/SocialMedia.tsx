@@ -15,7 +15,7 @@ const SocialMedia: React.FC = () => {
 				<a href='https://www.linkedin.com/in/iamlalitwagh/' target='_blank'>
 					<LinkedinFilled className={styles.linkedin} />
 				</a>
-				<a href='https://github.com/Redmanghost' target='_blank'>
+				<a href='https://github.com/IamLalitWagh' target='_blank'>
 					<GithubFilled className={styles.github} />
 				</a>
 				<a href='mailto:lalit.sanjaywagh@gmail.com'>
